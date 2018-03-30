@@ -1,4 +1,4 @@
-# resume
+# Resume
 
 ## 联系方式
 - 邮箱：513776201@qq.com
